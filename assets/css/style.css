@@ -1,6 +1,20 @@
+/* GLOBAL */
+/* Footer */
+.footer {
+  margin: 4rem 3rem;
+}
+
 /* INDEX PAGE */
+/* Jumbotron */
+#jumbotronMessage {
+  width: 60%;
+  margin: 2.5rem 0;
+  line-height: 2rem;
+}
 /* Modals */
+.modalButton {
+  margin: 0 3.75rem;
+}
 #indexModals {
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  margin: 5rem;
 }
