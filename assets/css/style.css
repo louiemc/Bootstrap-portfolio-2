@@ -1,15 +1,18 @@
 /* GLOBAL */
 /* Footer */
 .footer {
-  margin: 4rem 3rem;
+  margin: 3rem 3rem;
+  border-top: 1px black solid;
+}
+.footer a {
+  margin-top: 1.5rem;
 }
 
 /* INDEX PAGE */
 /* Jumbotron */
 #jumbotronMessage {
   width: 60%;
-  margin: 2.5rem 0;
-  line-height: 2rem;
+  margin: 2rem 0;
 }
 /* Modals */
 .modalButton {
@@ -17,4 +20,20 @@
 }
 #indexModals {
   margin: 5rem;
+}
+
+/* ABOUT PAGE */
+/* Section */
+#aboutMainImage {
+  width: 15rem;
+  height: 20rem;
+  border: black 1px solid;
+  float: left;
+  margin-right: 2.5rem;
+}
+#aboutInformation h5 {
+  margin: 3rem 0 2rem 0;
+}
+#aboutInformation p {
+  line-height: 2.5rem;
 }
