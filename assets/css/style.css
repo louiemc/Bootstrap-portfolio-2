@@ -1,25 +1,24 @@
 /* GLOBAL */
 /* Footer */
 .footer {
-  margin: 3rem 3rem;
-  border-top: 1px black solid;
+  margin: 2rem 3rem;
 }
 .footer a {
-  margin-top: 1.5rem;
+  margin-top: 1rem;
+}
+.footerLogo {
+  width: 11rem;
+  height: 11rem;
 }
 
 /* INDEX PAGE */
 /* Jumbotron */
+.jumbotron {
+  background: radial-gradient(yellow, orange);
+}
 #jumbotronMessage {
   width: 60%;
   margin: 2rem 0;
-}
-/* Modals */
-.modalButton {
-  margin: 0 3.75rem;
-}
-#indexModals {
-  margin: 5rem;
 }
 
 /* ABOUT PAGE */
